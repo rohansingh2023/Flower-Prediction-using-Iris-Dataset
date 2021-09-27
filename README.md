@@ -8,10 +8,7 @@ Here is the WebApp:
 ![image](https://user-images.githubusercontent.com/65129632/134859070-7d72b4ab-286c-478d-a8a8-5b0d828a2caf.png)
 
 <ul>
-  <li>Clone all the files given.</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
-
+  <li> Clone all the files as given.</li>
+  <li>Install the necessary dependencies as given in the requirements.txt file</li>
+  <li>For betterment, use a virtual environment to run your Flask application.</li>
 </ul>
